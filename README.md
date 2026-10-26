@@ -13,7 +13,7 @@ Our mission is to move beyond Black Box AI by exploring transparent architecture
 - **veXtor** — Semantic processing and information flow.
 - **fliXer** — Logical reasoning and logic flow.
 - **μNeX** — Adaptive intelligence.
-- **AgentiX** — Human-in-the-Loop agentic software development for software engineers.
+- **[AgentiX](https://github.com/glassboxai/AgentiX)** — Human-in-the-Loop agentic software development for software engineers.
 
 ## Our Philosophy
 
