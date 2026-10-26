@@ -1,5 +1,3 @@
-# .github
-
 # The Glass Box AI Project
 
 ### AI YOU CAN UNDERSTAND.
