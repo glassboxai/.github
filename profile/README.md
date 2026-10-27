@@ -2,6 +2,14 @@
 
 ### AI YOU CAN UNDERSTAND.
 
+
+![Status: Under Active Development](https://img.shields.io/badge/Status-Under%20Active%20Development-orange)
+
+> 🚧 **Under Active Development**
+>
+> This project is currently under active development. Its architecture, features, and documentation are evolving and may change as research and implementation progress.
+  
+
 **The Glass Box AI Project** is an independent, open-source Artificial Intelligence research and development initiative exploring **Glass Box AI, Explainable AI (XAI), Trustworthy AI, AI Safety, Sovereign AI, and modular AI architectures**.
 
 The goal is to move beyond opaque Black Box AI systems by investigating approaches to AI that are more **understandable, inspectable, traceable, auditable, and controllable by humans**.
