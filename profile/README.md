@@ -18,28 +18,36 @@ Rather than relying exclusively on opaque, monolithic AI models, NeXis explores 
 
 Its research encompasses two complementary directions:
 
-- **LLM Control and Verification:** Exploring mechanisms to improve the reliability, traceability, and controllability of Large Language Models.
-- **Adaptive Intelligence:** Investigating alternative approaches to adaptive intelligence through modular computational structures.
+- **αNeX** (LLM Control and Verification): Exploring mechanisms to improve the reliability, traceability, and controllability of Large Language Models.
+- **μNeX** (Adaptive Intelligence): Investigating alternative approaches to adaptive intelligence through modular computational structures.
 
 ## Open-Source Projects
 
-### aXiom — Knowledge Processing and Activation
+### αNeX — LLM Control and Verification
+
+Consists of the following modules:
+
+#### aXiom — Knowledge Processing and Activation
 
 **aXiom** explores mechanisms for knowledge representation, activation, and controlled access to information in AI systems.
 
 Its research focuses on making knowledge processing more structured, inspectable, and traceable.
 
-### veXtor — Semantic Processing and Information Flow
+#### veXtor — Semantic Processing and Information Flow
 
 **veXtor** explores semantic information processing and the management of semantic relationships within modular AI architectures.
 
 The project investigates how semantic representations and information flows can contribute to more transparent, structured, and inspectable AI processing.
 
-### fliXer — Logical Processing and Reasoning
+#### fliXer — Logical Processing and Reasoning
 
 **fliXer** investigates structured logical processing and reasoning mechanisms for modular AI systems.
 
 Its goal is to explore how explicit logical operations can complement statistical AI approaches and support more understandable reasoning processes.
+
+### μNeX — Adaptive Intelligence Research
+
+**μNeX** explores adaptive intelligence architectures and alternative computational approaches to AI beyond conventional monolithic neural network systems.
 
 ### [AgentiX](https://github.com/glassboxai/AgentiX) — Human-in-the-Loop Agentic Software Engineering
 
@@ -50,10 +58,6 @@ It explores a **Human-in-the-Loop approach to agentic software development**, co
 AgentiX emphasizes **Specification-Driven Development (SDD), Test-Driven Development (TDD), maintainability, security, and technical debt reduction**.
 
 Its central principle is that AI can generate software, but qualified software developers must remain responsible for understanding, validating, and controlling the resulting systems.
-
-### μNeX — Adaptive Intelligence Research
-
-**μNeX** explores adaptive intelligence architectures and alternative computational approaches to AI beyond conventional monolithic neural network systems.
 
 ## Research Principles
 
