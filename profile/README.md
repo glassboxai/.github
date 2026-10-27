@@ -27,19 +27,19 @@ Its research encompasses two complementary directions:
 
 Consists of the following modules:
 
-#### aXiom — Knowledge Processing and Activation
+- #### aXiom — Knowledge Processing and Activation
 
 **aXiom** explores mechanisms for knowledge representation, activation, and controlled access to information in AI systems.
 
 Its research focuses on making knowledge processing more structured, inspectable, and traceable.
 
-#### veXtor — Semantic Processing and Information Flow
+- #### veXtor — Semantic Processing and Information Flow
 
 **veXtor** explores semantic information processing and the management of semantic relationships within modular AI architectures.
 
 The project investigates how semantic representations and information flows can contribute to more transparent, structured, and inspectable AI processing.
 
-#### fliXer — Logical Processing and Reasoning
+- #### fliXer — Logical Processing and Reasoning
 
 **fliXer** investigates structured logical processing and reasoning mechanisms for modular AI systems.
 
