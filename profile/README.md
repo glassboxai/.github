@@ -4,9 +4,9 @@
 
 **The Glass Box AI Project** is an independent, open-source Artificial Intelligence research and development initiative exploring **Glass Box AI, Explainable AI (XAI), Trustworthy AI, AI Safety, Sovereign AI, and modular AI architectures**.
 
-Our goal is to move beyond opaque Black Box AI systems by investigating approaches to AI that are more **understandable, inspectable, traceable, auditable, and controllable by humans**.
+The goal is to move beyond opaque Black Box AI systems by investigating approaches to AI that are more **understandable, inspectable, traceable, auditable, and controllable by humans**.
 
-We research and develop experimental software architectures that combine knowledge processing, semantic representations, logical reasoning, adaptive intelligence, and human oversight.
+Research and development are conducted on experimental software architectures that combine knowledge processing, semantic representations, logical reasoning, adaptive intelligence, and human oversight.
 
 **AI is OK, but not this way.**
 
@@ -25,19 +25,19 @@ Its research encompasses two complementary directions:
 
 ### αNeX — LLM Control and Verification
 
-Consists of the following modules:
+It consists of the following modules:
 
-- #### aXiom — Knowledge Processing and Activation
+- #### aXiom — Knowledge Processing, Activation and Retrieval
 
 **aXiom** explores mechanisms for knowledge representation, activation, and controlled access to information in AI systems.
 
-Its research focuses on making knowledge processing more structured, inspectable, and traceable.
+Its research focuses on making knowledge processing more structured, inspectable, and traceable, aiming to extract only evidence-based information.
 
-- #### veXtor — Semantic Processing and Information Flow
+- #### veXtor — Semantic Information Flow
 
 **veXtor** explores semantic information processing and the management of semantic relationships within modular AI architectures.
 
-The project investigates how semantic representations and information flows can contribute to more transparent, structured, and inspectable AI processing.
+The project investigates how semantic representations and information flows can contribute to guiding the LLM generative process to obtain more concise answers.
 
 - #### fliXer — Logical Processing and Reasoning
 
@@ -61,7 +61,7 @@ Its central principle is that AI can generate software, but qualified software d
 
 ## Research Principles
 
-Our work is guided by several fundamental principles:
+All this work is guided by several fundamental principles:
 
 - **Transparency:** AI behavior should be understandable and inspectable.
 - **Traceability:** Decisions and information flows should be open to examination.
@@ -80,7 +80,7 @@ Glass Box AI · Explainable Artificial Intelligence (XAI) · Interpretable Machi
 
 **Source code and repositories:** [github.com/glassboxai](https://github.com/glassboxai)
 
-We welcome researchers, software engineers, and contributors interested in developing more transparent, understandable, and trustworthy Artificial Intelligence.
+Researchers, software engineers, and contributors interested in developing more transparent, understandable, and trustworthy Artificial Intelligence are welcome to join.
 
 ---
 
