@@ -35,19 +35,19 @@ Its research encompasses two complementary directions:
 
 It consists of the following modules:
 
-- #### aXiom — Knowledge Processing, Activation and Retrieval
+- #### [aXiom](https://github.com/glassboxai/aXiom) — Knowledge Processing, Activation and Retrieval
 
 **aXiom** explores mechanisms for knowledge representation, activation, and controlled access to information in AI systems.
 
 Its research focuses on making knowledge processing more structured, inspectable, and traceable, aiming to extract only evidence-based information.
 
-- #### veXtor — Semantic Information Flow
+- #### [veXtor](https://github.com/glassboxai/veXtor) — Semantic Information Flow
 
 **veXtor** explores semantic information processing and the management of semantic relationships within modular AI architectures.
 
 The project investigates how semantic representations and information flows can contribute to guiding the LLM generative process to obtain more concise answers.
 
-- #### fliXer — Logical Processing and Reasoning
+- #### [fliXer](https://github.com/glassboxai/fliXer) — Logical Processing and Reasoning
 
 **fliXer** investigates structured logical processing and reasoning mechanisms for modular AI systems.
 
