@@ -88,6 +88,8 @@ Glass Box AI · Explainable Artificial Intelligence (XAI) · Interpretable Machi
 
 **Source code and repositories:** [github.com/glassboxai](https://github.com/glassboxai)
 
+**LinkedIn:** [Professional Profile](https://www.linkedin.com/in/glassbox-ai-research/)
+
 Researchers, software engineers, and contributors interested in developing more transparent, understandable, and trustworthy Artificial Intelligence are welcome to join.
 
 ---
